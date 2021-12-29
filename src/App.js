@@ -1,10 +1,12 @@
 import "./App.css";
+import Weather from "./Weather";
+import "./App.css";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <div className="container">
-        Weather App
+        <Weather />
         <footer>
           {" "}
           This project is created by yeyeong and is{" "}
@@ -20,5 +22,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
