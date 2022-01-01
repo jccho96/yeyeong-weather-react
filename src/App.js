@@ -9,7 +9,7 @@ export default function App() {
         <Weather defaultCity="New York" />
         <footer>
           {" "}
-          👩‍💻 This project is created by yeyeong and is{" "}
+          👩‍💻 Created by yeyeong and{" "}
           <a
             href="https://github.com/jccho96/yeyeong-weather-react.git"
             target="_blank"
