@@ -4,5 +4,8 @@
 }
 .App footer {
   font-size: 11px;
-  margin: 20px 0;
+  margin: 20px 5px;
+}
+.App a {
+  color: #212529;
 }
